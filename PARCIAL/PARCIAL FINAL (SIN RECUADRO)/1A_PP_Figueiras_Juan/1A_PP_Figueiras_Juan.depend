@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1508723494 source:c:\users\admin\desktop\1a_pp_figueiras_juan\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"lib.h"
+
+1507715410 c:\users\admin\desktop\1a_pp_figueiras_juan\lib.h
+
+1507715307 source:c:\users\admin\desktop\1a_pp_figueiras_juan\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"lib.h"
+
+1508888530 source:c:\users\admin\desktop\parc\1a_pp_figueiras_juan\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"lib.h"
+
+1507715410 c:\users\admin\desktop\parc\1a_pp_figueiras_juan\lib.h
+
+1508888433 source:c:\users\admin\desktop\parc\1a_pp_figueiras_juan\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"lib.h"
+
+1508912742 source:c:\users\admin\desktop\parc final\1a_pp_figueiras_juan\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"lib.h"
+
+1508910766 c:\users\admin\desktop\parc final\1a_pp_figueiras_juan\lib.h
+
+1508912670 source:c:\users\admin\desktop\parc final\1a_pp_figueiras_juan\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"lib.h"
+
+1508912670 source:c:\users\admin\desktop\parcial final (sin recuadro)\1a_pp_figueiras_juan\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"lib.h"
+
+1508910766 c:\users\admin\desktop\parcial final (sin recuadro)\1a_pp_figueiras_juan\lib.h
+
