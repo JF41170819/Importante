@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1446667744 source:f:\final final - array\arraylist\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1510747762 source:f:\array list - generico\arraylist\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayList.h"
+
+1510721356 f:\array list - generico\arraylist\arraylist.h
+
+1511323940 source:f:\array list - generico\arraylist\estructura.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayList.h"
+	"Estructura.h"
+
+1511328262 f:\array list - generico\arraylist\estructura.h
+
+1511331722 source:f:\array list - generico\arraylist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayList.h"
+	"Estructura.h"
+	"Parser.h"
+
+1511322638 f:\array list - generico\arraylist\parser.h
+
+1511329836 source:f:\array list - generico\arraylist\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayList.h"
+	"Parser.h"
+	"Estructura.h"
+
